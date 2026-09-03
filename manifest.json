@@ -32,7 +32,7 @@
     },
     {
       "id": "allwish",
-      "name": "🌟 All-Wish",
+      "name": "All-Wish",
       "description": "TV episodes via All-Wish servers",
       "version": "1.0.1",
       "author": "Kabir",
@@ -187,7 +187,7 @@
     },
     {
       "id": "torrentio",
-      "name": "🧲 Torrentio",
+      "name": "Torrentio",
       "description": "Torrent streaming with support for optional debrid services.",
       "version": "1.0.0",
       "author": "Nuvio Team",
